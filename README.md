@@ -3,6 +3,7 @@ Datenbank Anbindung und Webserver für einen auf Whisky spezialisierten Einzehlh
 
 ## Masterprojekt Universität Duisburg-Essen  
 Wintersemester 2022/2023  
-Frederik Hendricks-Kühn  
-Sahel Lutra  
-Robin Roskosch  
+- Frederik Hendricks-Kühn  
+- Sahel Lutra  
+- Robin Roskosch  
+
